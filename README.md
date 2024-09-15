@@ -1,6 +1,6 @@
 # Solutions of Partial Differential Equations by Differential Quadrature Method
 
-This repository contains MATLAB files solving various differential equations using the **Differential Quadrature Method (DQM)**, as demonstrated in my master's thesis, *"Solutions of Partial Differential Equations by Differential Quadrature Method,"* completed at Fatih University, Istanbul, Turkey, in 2016 under the supervision of **Dr. Ali Şahin**.
+This repository contains MATLAB files solving various differential equations using the **Differential Quadrature Method (DQM)**, as demonstrated in my master's thesis, *"Solutions of Partial Differential Equations by Differential Quadrature Method,"* completed at Fatih University, Istanbul, Türkiye, in 2016 under the supervision of **Dr. Ali Şahin**.
 
 The solutions are based on examples from my thesis and demonstrate the power of DQM for solving both ordinary and partial differential equations (ODEs and PDEs). The thesis provides a comprehensive introduction to the method, followed by several example problems solved using different grid distributions and methods, such as polynomial-based differential quadrature.
 
