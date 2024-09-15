@@ -1,4 +1,4 @@
-Here's a sample README file for your GitHub repository:
+Here's an updated version of the README file, which reflects the appropriate formatting for LaTeX equations and provides a clear structure for your repository:
 
 ---
 
@@ -45,3 +45,9 @@ The complete thesis PDF is included in this repository for reference and in-dept
 ## About the Thesis
 
 My thesis explores the **Differential Quadrature Method (DQM)** as a numerical solution method for ordinary and partial differential equations. The DQM expresses the derivative of a function at a grid point as a weighted sum of the function values at all other points, leading to high-accuracy solutions with fewer grid points compared to traditional methods. The thesis focuses on both uniform and Chebyshev-Gauss-Lobatto (CGL) grid distributions and solves a variety of differential equations using Polynomial-based Differential Quadrature (PDQ).
+
+---
+
+This README file will provide a clean structure to your repository. The equations will display properly if rendered with a Jupyter notebook or external tools that support LaTeX rendering. 
+
+Would you like to proceed with adding the thesis and MATLAB files to your repository now?
