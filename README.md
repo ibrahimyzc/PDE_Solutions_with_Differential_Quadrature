@@ -1,6 +1,6 @@
 # Solutions of Partial Differential Equations by Differential Quadrature Method
 
-This repository contains MATLAB files solving various differential equations using the **Differential Quadrature Method (DQM)**, as demonstrated in my master's thesis, *"Solutions of Partial Differential Equations by Differential Quadrature Method,"* completed at Fatih University, Istanbul, Türkiye, in 2016 under the supervision of **Dr. Ali Şahin**.
+This repository contains MATLAB files solving various differential equations using the Differential Quadrature Method (DQM), as demonstrated in my master's thesis, *"Solutions of Partial Differential Equations by Differential Quadrature Method,"* completed at Fatih University, Istanbul, Türkiye, in 2016 under the supervision of Dr. Ali Şahin.
 
 The solutions are based on examples from my thesis and demonstrate the power of DQM for solving both ordinary and partial differential equations (ODEs and PDEs). The thesis provides a comprehensive introduction to the method, followed by several example problems solved using different grid distributions and methods, such as polynomial-based differential quadrature.
 
@@ -40,4 +40,4 @@ The complete thesis PDF is included in this repository for reference and in-dept
 
 ## About the Thesis
 
-My thesis explores the **Differential Quadrature Method (DQM)** as a numerical solution method for ordinary and partial differential equations. The DQM expresses the derivative of a function at a grid point as a weighted sum of the function values at all other points, leading to high-accuracy solutions with fewer grid points compared to traditional methods. The thesis focuses on both uniform and Chebyshev-Gauss-Lobatto (CGL) grid distributions and solves a variety of differential equations using Polynomial-based Differential Quadrature (PDQ).
+My thesis explores the Differential Quadrature Method (DQM) as a numerical solution method for ordinary and partial differential equations. The DQM expresses the derivative of a function at a grid point as a weighted sum of the function values at all other points, leading to high-accuracy solutions with fewer grid points compared to traditional methods. The thesis focuses on both uniform and Chebyshev-Gauss-Lobatto (CGL) grid distributions and solves a variety of differential equations using Polynomial-based Differential Quadrature (PDQ).
