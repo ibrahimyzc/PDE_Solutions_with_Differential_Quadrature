@@ -17,7 +17,7 @@ This repository includes the following projects (examples) solved from my thesis
    - y'' + (x + 1)y' - 2y = (1 - x^2)e^{-x}, y(0) = -1, y(1) = 0
 
 3. **Example 2.3**: Solving an initial value problem using PDQ method:
-   - y'' - 5y' + 6y = 0, y(0) = 0, y(1) = -1
+   - y'' - 5y' + 6y = 0, y(0) = 0, y'(0) = -1
 
 4. **Example 2.4**: Solving a fourth-order initial value problem using PDQ method:
    - y^(4) - y = 0, y(0) = 7/2, y'(0) = -4, y''(0) = 5/2, y'''(0) = -2
